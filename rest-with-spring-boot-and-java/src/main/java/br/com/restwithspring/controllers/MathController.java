@@ -1,4 +1,4 @@
-package br.com.restwithspring;
+package br.com.restwithspring.controllers;
 
 import java.util.concurrent.atomic.AtomicLong;
 

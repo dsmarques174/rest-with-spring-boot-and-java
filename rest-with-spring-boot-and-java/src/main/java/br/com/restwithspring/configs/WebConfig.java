@@ -1,4 +1,4 @@
-package br.com.restwithspring.config;
+package br.com.restwithspring.configs;
 
 import java.util.List;
 
